@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.bawp.facedetectapp">
+    package="com.mmohamedali.facedetectapp">
 
 
 
@@ -18,7 +18,7 @@
             android:name="com.google.firebase.ml.vision.DEPENDENCIES"
             android:value="face" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.mmohamedali.facedetectapp.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>

@@ -1,4 +1,4 @@
-package com.bawp.facedetectapp;
+package com.mmohamedali.facedetectapp;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
