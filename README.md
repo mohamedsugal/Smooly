@@ -1,4 +1,4 @@
-# FaceDetection
+# Smooly
 A face detection app that can analyze images using the Firebase ML kit. The app can detect smiley faces 😊from non-smiley faces 😠and return the probability that a face is smiling or not. 0.9 > means a face is smiling and ~0.00 means face is not smiling.
 
 ### Setup development environment
